@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PRETSAL</string>
+    <string name="PRETSAL">PRETSAL\n SIGN UP</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="Register">Register!</string>
+    <string name="new_account">Already have an account\n SIGN IN!</string>
+    <string name="login">Login</string>
+    <string name="pretsal">PRETSAL\n LOGIN</string>
+    <string name="log_account">Need an account?\n SIGN UP!</string>
+    <string name="id">ID</string>
+    <string name="one">01</string>
+    <string name="gender">Gender</string>
+    <string name="logout">Logout</string>
+    <string name="View">Shop</string>
+    <string name="Account">Account</string>
+    <string name="preferences">Set Profile Preferences</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Please wait Loading…</string>
+    <string name="new_product">New</string>
+</resources>
